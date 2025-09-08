@@ -1,1 +1,18 @@
 # Software-Engineering-2-
+# Flood Simulation Model in Bulan, Sorsogon
+
+## 📌 Project Description
+This project focuses on developing a **Flood Simulation Model** for **MDRRMO Bulan** to enhance flood preparedness, monitoring, and response. The system integrates **Machine Learning (ML)** for flood prediction and **Agent-Based Modeling (ABM)** for simulating flood scenarios, resource allocation, and evacuation planning.  
+
+By combining real-time data collection, predictive analytics, and simulation tools, the project aims to improve decision-making, optimize rescue operations, and ensure efficient resource distribution during flood events.
+
+---
+
+## 👥 Group Members
+- Member 1: [Jenzel Zuñiga]
+- Member 2: [Rhia Mae Gojar]  
+- Member 3: [Eva Granadil]  
+
+
+---
+
