@@ -9,9 +9,9 @@ By combining real-time data collection, predictive analytics, and simulation too
 ---
 
 ## 👥 Group Members
-- Member 1: [Jenzel Zuñiga]
-- Member 2: [Rhia Mae Gojar]  
-- Member 3: [Eva Granadil]  
+- Jenzel Zuñiga
+- Rhia Mae Gojar
+- Eva Granadil  
 
 
 ---
