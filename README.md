@@ -15,7 +15,7 @@ By combining real-time data collection, predictive analytics, and simulation too
 
 ---
 
-# **Agile SDLC Model (Scrum) for Flood Simulation System**
+# **Agile SDLC Model (Scrum) for Flood Simulation Model**
 
 ### **1. Requirement Gathering & Planning (Product Backlog)**
 
@@ -88,7 +88,8 @@ By combining real-time data collection, predictive analytics, and simulation too
 * Add new features (ex. 3D flood visualization).
 
 ---
-
+# **Gantt Chart for Flood Simulation Model**
+![Gantt Chart](gantchart.png)
 
 
 
