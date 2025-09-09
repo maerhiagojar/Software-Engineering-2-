@@ -89,9 +89,6 @@ By combining real-time data collection, predictive analytics, and simulation too
 
 ---
 
-📌 **Why Scrum fits your system:**
-Because rainfall data is **dynamic and unpredictable**, Scrum allows **flexibility, fast iterations, and continuous updates**. It ensures early feedback from LGU and residents, while continuously improving the flood prediction model.
 
----
 
 
